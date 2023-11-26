@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet Efe Özcan</h1>
-<h3 align="center">
+<h3 align="left">
   I am a software developer. I usually develop mobile applications. In addition
   to mobile application development, I develop backend and games.
 </h3>
